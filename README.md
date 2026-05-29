@@ -46,15 +46,6 @@ anomaly-detector/
 ├── capture.py
 ├── dashboard.py
 ├── report.py
-│
-├── screenshots/
-│   ├── dashboard-overview.png
-│   ├── events-table.png
-│   ├── statistics-view.png
-│   └── report-preview.png
-│
-├── sample_data/
-│
 ├── requirements.txt
 └── README.md
 ```
