@@ -1,6 +1,6 @@
 # NetWatch - A Network Anomaly Detection System
 
-> A Python-based network anomaly detection system using adaptive statistical baselining, live packet capture, and event extraction inspired by measure-theoretic signal decomposition.
+> A Python-based network anomaly detection system using adaptive statistical baselining, packet analysis, and event extraction inspired by measure-theoretic signal decomposition.
 
 ---
 
