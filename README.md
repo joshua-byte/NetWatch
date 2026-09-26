@@ -224,7 +224,7 @@ The system provides:
 **Joshua**
 RV University, Bengaluru
 
-Cybersecurity • Systems Analysis • Philosophy of Science
+Cybersecurity 
 
 ---
 
